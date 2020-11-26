@@ -2,7 +2,6 @@
 
 I’m currently learning **Unity C#**.
 
-Pronouns: relt, stroma.
 <!--
 **tehrelt/tehrelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
