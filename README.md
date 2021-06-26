@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently learning **Front-end**.
+I'm currently learning **C++**.
 
 <!--
 **tehrelt/tehrelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
