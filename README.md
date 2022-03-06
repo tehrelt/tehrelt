@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently learning **C# WPF**.
+I'm currently learning **VUE JS**.
 
 <!--
 **tehrelt/tehrelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
