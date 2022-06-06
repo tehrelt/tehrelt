@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/0d7c85ba-d0d6-4cf1-aff3-68cd248d34fc.svg)](https://wakatime.com/@0d7c85ba-d0d6-4cf1-aff3-68cd248d34fc)
 
-I'm currently learning **VUE JS**.
+I'm currently learning **C#**.
 
 
 <!--
