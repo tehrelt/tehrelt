@@ -4,7 +4,7 @@
 
 ![prikol](https://cdn.discordapp.com/attachments/888097759800999946/1077257404523221012/prikol.gif)
 
-![tehrelt's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tehreltlayout=compact&theme=dark)
+![tehrelt's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tehrelt&layout=compact&theme=dark)
 <!--
 **tehrelt/tehrelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
