@@ -3,7 +3,6 @@
 [![wakatime](https://wakatime.com/badge/user/0d7c85ba-d0d6-4cf1-aff3-68cd248d34fc.svg)](https://wakatime.com/@0d7c85ba-d0d6-4cf1-aff3-68cd248d34fc)
 
 ![prikol](https://cdn.discordapp.com/attachments/888097759800999946/1077257404523221012/prikol.gif)
-![tehrelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehrelt)
 
 <!--
 **tehrelt/tehrelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
