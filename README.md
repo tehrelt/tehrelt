@@ -1,8 +1,10 @@
   ### YO
-
+  
 [![wakatime](https://wakatime.com/badge/user/0d7c85ba-d0d6-4cf1-aff3-68cd248d34fc.svg)](https://wakatime.com/@0d7c85ba-d0d6-4cf1-aff3-68cd248d34fc)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/888097759800999946/1077257404523221012/prikol.gif" />
+</p>
 
-![prikol](https://cdn.discordapp.com/attachments/888097759800999946/1077257404523221012/prikol.gif)
 
 ![tehrelt's most used](https://github-readme-stats.vercel.app/api/top-langs/?username=tehrelt&langs_count=5&theme=github_dark_dimmed)
 
